@@ -11,7 +11,7 @@ XCPlaygroundPage.currentPage.needsIndefiniteExecution = true
 func run() {
   let size = 50
   let depth = 50
-  let trials = 100000
+  let trials = 1000
 
   var results = Results(size: size)
 
